@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kant_kislay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kant_kislay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kislay-kant-pandey-163987178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kislay-kant-pandey-163987178" height="30" width="40" /></a>
-<a href="https://instagram.com/kislay-kant-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kislay-kant-pandey" height="30" width="40" /></a>
+<a href="https://twitter.com/kant_kislay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kant_kislay" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/kislay-kant-pandey-163987178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kislay-kant-pandey-163987178" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://instagram.com/kislay-kant-pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kislay-kant-pandey" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.youtube.com/c/kislaykantpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kislaykantpandey" height="30" width="40" /></a>
 </p>
 
